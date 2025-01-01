@@ -4,7 +4,7 @@ public class MinMax {
    public static void main(String args[])
    {
        System.out.println("The smollest number gonna be " + findMin(array));
-       System.out.println("The boingest numbre dothet beth "+ findMax(array));
+       System.out.println("The biggest numbre dothet beth "+ findMax(array));
 
    }
 
